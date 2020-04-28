@@ -1,0 +1,11 @@
+# OS Generate Files # 
+###################### 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Desktop.ini
+
+# Cache directory
+.sass-cache
